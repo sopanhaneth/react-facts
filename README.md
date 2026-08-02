@@ -6,7 +6,7 @@ This project focuses on component-based development, JSX, importing assets, and 
 
 ## Preview
 
-<img width="700" alt="React Facts Screenshot" src="./screenshots/react-facts.jpeg">
+![React Facts](./screenshots/react-facts.jpeg)
 
 ## Features
 
